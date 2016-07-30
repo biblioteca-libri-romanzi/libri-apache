@@ -1,8 +1,8 @@
 # Libri consigliati su Forge-Allura
 In questo caso non si tratta di un articolo scritto da Noemi ma bensì di una pagina esperimento creata su un sottodominio di Apache.
-La pagina in questione parla di libri consigliati e apparentemente non ha senso e sembra scritta non da uno scrittore ma bensì da una persona che genera del testo non coerente.
+La pagina in questione è la seguente: https://forge-allura.apache.org/u/mario-libri/libro-in-bibloteca/ e parla di libri consigliati ma non è scritta direttamente dalla scrittrice, bensì è scritta in terza persona. C'è poi una seconda pagina che è stata creata molto più complessa.
 
-Tuttavia la stessa pagina è frutto di un esperimento e sarà presto direzionata in un'altra sezione del portale Sourceforge.
+Tuttavia la pagina più complessa è frutto di un esperimento e sarà presto direzionata in un'altra sezione del portale Sourceforge.
 <br>
 Aggiornamento: l'esperimento è terminato e la pagina è stata cancellata. Rimandiamo per adesso a questa pagina: https://github.com/biblioteca-libri-romanzi/libri-sourceforge
 
