@@ -7,4 +7,4 @@ Tuttavia la pagina più complessa è frutto di un esperimento e sarà presto dir
 <br>
 Aggiornamento: l'esperimento è terminato e la pagina è stata cancellata. Rimandiamo per adesso a questa pagina: https://github.com/biblioteca-libri-romanzi/libri-sourceforge
 
-Sempre a titolo sperimentale segnaliamo anche come fare la <A HREF=https://forum.openoffice.org/it/forum/viewtopic.php?f=8&t=7350>numerazione delle pagine di un libro</A> nel sito di Openoffice.
+Sempre a titolo sperimentale segnaliamo anche come fare la <a HREF=https://forum.openoffice.org/it/forum/viewtopic.php?f=8&t=7350>numerazione delle pagine di un libro</a> nel sito di Openoffice.
